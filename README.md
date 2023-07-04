@@ -24,7 +24,7 @@ stompSelf.m is adopted from Zhu and Yeh in Matrix Profile II.
 ## Citation
 
 If you find this repository useful for your research, please consider citing the following papers:
-'''
+```
 @inproceedings{zhang2023pmp,
   title={PMP: Privacy-Aware Matrix Profile against Sensitive Pattern Inference for Time Series},
   author={Zhang, Li and Ding, Jiahao and Gao, Yifeng and Lin, Jessica},
@@ -33,5 +33,5 @@ If you find this repository useful for your research, please consider citing the
   year={2023},
   organization={SIAM}
 }
-'''
+```
 
