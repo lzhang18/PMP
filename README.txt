@@ -1,8 +1,10 @@
-This is source code for the SDM23 paper: PMP: Privacy-Aware Matrix Profile against Sensitive Pattern Inference for Time Series. 
+# PMP: Privacy-Aware Matrix Profile against Sensitive Pattern Inference for Time Series
 
-\href{Paper link}{https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch100}
+This is the source code for the SDM23 paper: PMP: Privacy-Aware Matrix Profile against Sensitive Pattern Inference for Time Series. 
 
-Usage: 
+[Paper link](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch100)
+
+## Usage: 
 
 To run the demo, please run the attack_demo. We have two variations of the protection code:
 
@@ -18,8 +20,11 @@ MASS_V3.m is adopted from https://www.cs.unm.edu/~mueen/FastestSimilaritySearch.
 
 stompSelf.m is adopted from Zhu and Yeh in Matrix Profile II.
 
-If you find this repository useful for your research, please consider citing the following papers:
 
+## Citation
+
+If you find this repository useful for your research, please consider citing the following papers:
+'''
 @inproceedings{zhang2023pmp,
   title={PMP: Privacy-Aware Matrix Profile against Sensitive Pattern Inference for Time Series},
   author={Zhang, Li and Ding, Jiahao and Gao, Yifeng and Lin, Jessica},
@@ -28,4 +33,5 @@ If you find this repository useful for your research, please consider citing the
   year={2023},
   organization={SIAM}
 }
+'''
 
